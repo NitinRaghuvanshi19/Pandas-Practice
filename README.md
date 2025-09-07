@@ -1,10 +1,7 @@
----
-
-# 📌 README.md
-
-````markdown
 # 🐍 Python for Data Science Cheat Sheet  
 ## 📊 Python Pandas  
+
+> 📌 A quick reference cheat sheet for Python Pandas covering data structures, importing/exporting, operations, groupby, and visualization.  
 
 ---
 
@@ -16,7 +13,7 @@ Pandas is a Python library that provides **easy-to-use data structures** and **d
 ## 📌 Import Convention
 ```python
 import pandas as pd   # Import pandas
-````
+```
 
 ---
 
@@ -108,7 +105,7 @@ df.iloc[:, 1]   # Second column
 #### Using `.loc` (label-based)
 
 ```python
-df.loc[0, "column_name"]                # Select single value
+df.loc[0, "column_name"]                     # Select single value
 df.loc['row1':'row3', 'column1':'column3']   # Slice by labels
 ```
 
@@ -196,10 +193,3 @@ df.describe() # Summary statistics for numerical columns
 ## 📌 Reference
 
 📘 *Python for Data Science Certification Training Course*
-
----
-
-```
-
----
-```
