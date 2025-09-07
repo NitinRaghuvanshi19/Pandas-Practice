@@ -202,8 +202,4 @@ df.describe() # Summary statistics for numerical columns
 ```
 
 ---
-
-  
-
-Do you also want me to add a **table of contents with clickable links** (for quick navigation inside the README)?
 ```
