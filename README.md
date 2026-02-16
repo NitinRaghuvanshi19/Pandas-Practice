@@ -12,7 +12,7 @@ Pandas is a Python library that provides **easy-to-use data structures** and **d
 ## 📌 Import Convention
 ```python
 import pandas as pd   # Import pandas
-```
+```  
 
 ---
 
