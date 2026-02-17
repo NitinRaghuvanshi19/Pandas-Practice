@@ -5,7 +5,7 @@
 ---
      
 ## 📌 What is Pandas?     
-Pandas is a Python library that provides **easy-to-use data structures** and **data analysis tools** for the Python programming language.  
+Pandas is a Python library that provides **easy-to-use data structures** and **data analysis tools** for the Python programming language.    
   
 ---
 
