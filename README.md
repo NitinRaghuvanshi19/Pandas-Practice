@@ -17,7 +17,7 @@ import pandas as pd   # Import pandas
 
 ---
 
-## 📌 Pandas Data Structures
+## 📌 Pandas Data Structures..
 
 ### ✅ Series
 
